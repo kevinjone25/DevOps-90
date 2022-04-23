@@ -22,10 +22,13 @@
 - 總結來說，你僅需要知道foundational knowledge和他們如何做溝通的
 
 
-## 學習的技巧
+## DevOps Engineer學習的技巧
 
 - 你需要知道一個技術的基本知識 
     - Ex: Docker 如何去run container的(不是懂指令就好 要懂整個運作流程)
 - 在學習個個技術後，你要能夠在腦中拼湊出她們之間的溝通
     - Ex: k8s和docker之間的互動
-- 
+- 多看Open Source的技術，專注在學習你的弱點項目(Infra、Proxy之類的)上
+- 多去實踐，即使你該項技術不熟，不要流於紙上談兵
+- Always keep it simple!!!
+- 不要把事情想得太複雜!!!
